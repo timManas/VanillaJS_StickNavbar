@@ -1,6 +1,6 @@
 # VanillaJS_StickNavbar
 
-Project Demo:
+Project Demo: https://timmanas.github.io/VanillaJS_StickNavbar
 
 You will need
 
